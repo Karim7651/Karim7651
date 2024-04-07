@@ -1,9 +1,9 @@
 <h2 align="center">A passionate full stack developer with excellent knowledge of data structures and algorithms</h3>
 <h3 align="left">Certificates</h4>
 <ul>
-  <li><a href="https://coursera.org/share/55da081042daab26e1cbca3e2954cca2" alt="certificate">Algorithmic Toolbox</a></li>
   <li><a href="https://coursera.org/share/801684cf910a0a00e34d74b420472854" alt="certificate">Meta Front-End Developer</a></li>
   <li><a href="https://coursera.org/share/d30f0ed82ff5227748feabfec9419ca0" alt="certificate">Meta Back-End Developer</a></li>
+  <li><a href="https://coursera.org/share/55da081042daab26e1cbca3e2954cca2" alt="certificate">Algorithmic Toolbox</a></li>
   <li><a href="https://coursera.org/share/dea7c08f4a0a5cf804f0d5212b9edd40" alt="certificate">Data Structures</a></li>
 </ul>
 
