@@ -1,4 +1,5 @@
 <h3 align="center">A passionate full stack developer with excellent knowledge of data structures and algorithms</h3>
+<h4 align="left">Certificates</h4>
 <ul>
   <li><a href="https://coursera.org/share/55da081042daab26e1cbca3e2954cca2" alt="certificate">Algorithmic Toolbox</a></li>
   <li><a href="https://coursera.org/share/801684cf910a0a00e34d74b420472854" alt="certificate">Meta Front-End Developer</a></li>
