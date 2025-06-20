@@ -8,10 +8,7 @@
   <li><a href="https://coursera.org/share/dea7c08f4a0a5cf804f0d5212b9edd40" alt="certificate">Data Structures</a></li>
 </ul>
 
-<h3 align="left">Other Certificates</h3>
-<ul>
-  <li><a href="https://coursera.org/share/cc111b15b275e06d88ec08c77909755b" alt="certificate">Psychology</a></li>
-</ul>
+
 
 <h3 align="left">Audited Courses</h3>
 <ul>
@@ -20,6 +17,11 @@
   <li><a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/">Node.js, Express, MongoDB Bootcamp</a></li>
   <li><a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course</a></li>
   <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course</a></li>
+</ul>
+
+<h3 align="left">Other Certificates</h3>
+<ul>
+  <li><a href="https://coursera.org/share/cc111b15b275e06d88ec08c77909755b">Psychology</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
