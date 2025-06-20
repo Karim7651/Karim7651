@@ -12,11 +12,15 @@
 
 <h3 align="left">Audited Courses</h3>
 <ul>
-  <li><a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Design and Develop a Killer Website with HTML5 and CSS3</a></li>
+  <li><a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Build Responsive Real-World Websites with HTML and CSS</a></li>
   <li><a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS and Sass</a></li>
-  <li><a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/">Node.js, Express, MongoDB Bootcamp</a></li>
+  <li><a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/">Node.js, Express, MongoDB</a></li>
+  <li><a href="https://www.udemy.com/course/sql-and-postgresql/">SQL and PostgreSQL</a></li>
   <li><a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course</a></li>
   <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course</a></li>
+  <li><a href="https://www.udemy.com/course/microservices-with-node-js-and-react/">Microservices with Node.js and React (Currently learning)</a></li>
+  <li><a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/">TypeScript: The Complete Developer's Guide (Currently learning)</a></li>
+  
 </ul>
 
 <h3 align="left">Other Certificates</h3>
