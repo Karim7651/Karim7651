@@ -1,4 +1,4 @@
-<h2 align="center">A passionate full stack developer with excellent knowledge of data structures and algorithms</h2>
+<h2 align="center">Computer Engineering Graduate | Full-Stack Developer | Cloud & Microservices | DSA</h2>
 
 <h3 align="left">Certificates</h3>
 <ul>
