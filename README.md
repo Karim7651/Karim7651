@@ -6,7 +6,15 @@
   <li><a href="https://coursera.org/share/55da081042daab26e1cbca3e2954cca2" alt="certificate">Algorithmic Toolbox</a></li>
   <li><a href="https://coursera.org/share/dea7c08f4a0a5cf804f0d5212b9edd40" alt="certificate">Data Structures</a></li>
 </ul>
-<h3 align="left">Other Certificates</h4>
+<h3 align="left">Other Certificates</h3>
+<h3 align="left">Audited Courses</h3>
+<ul>
+  <li><a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/">Design and Develop a Killer Website with HTML5 and CSS3</a></li>
+  <li><a href="https://www.udemy.com/course/advanced-css-and-sass/">Advanced CSS and Sass</a></li>
+  <li><a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/">Node.js, Express, MongoDB Bootcamp</a></li>
+  <li><a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course</a></li>
+  <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course</a></li>
+</ul>
 <ul>
   <li><a href="https://coursera.org/share/cc111b15b275e06d88ec08c77909755b" alt="certificate">Psychology</a></li>
 </ul>
