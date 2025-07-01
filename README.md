@@ -22,7 +22,8 @@
   <li><a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/">TypeScript: The Complete Developer's Guide (Currently learning)</a></li>
   <li><a href="https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/">Agile Fundamentals: Scrum, Kanban, Scrumban</a></li>
   <li><a href="https://www.udemy.com/course/git-and-github-bootcamp/">Git and GitHub Bootcamp</a></li>
-  
+  <li><a href="https://www.udemy.com/course/oauth-2-simplified/">The Nuts and Bolts of OAuth 2.0
+</a></li>
 </ul>
 
 <h3 align="left">Other Certificates</h3>
