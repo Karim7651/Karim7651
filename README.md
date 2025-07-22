@@ -19,7 +19,7 @@
   <li><a href="https://www.udemy.com/course/the-ultimate-react-course/">The Ultimate React Course</a></li>
   <li><a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course</a></li>
   <li><a href="https://www.udemy.com/course/microservices-with-node-js-and-react/">Microservices with Node.js and React (Currently learning)</a></li>
-  <li><a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/">TypeScript: The Complete Developer's Guide (Currently learning)</a></li>
+  <li><a href="https://www.udemy.com/course/typescript-the-complete-developers-guide/">TypeScript: The Complete Developer's Guide</a></li>
   <li><a href="https://www.udemy.com/course/agile-fundamentals-scrum-kanban-scrumban/">Agile Fundamentals: Scrum, Kanban, Scrumban</a></li>
   <li><a href="https://www.udemy.com/course/git-and-github-bootcamp/">Git and GitHub Bootcamp</a></li>
   <li><a href="https://www.udemy.com/course/oauth-2-simplified/">The Nuts and Bolts of OAuth 2.0
