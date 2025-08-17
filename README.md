@@ -1,8 +1,8 @@
-<p align="center">
-  <a href="https://karim-shaaban.vercel.app/" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a>
-</p>
-<h2 align="center">Computer Engineering Graduate | Full-Stack Developer | Cloud & Microservices | DSA</h2>
 
+<h2 align="center">Computer Engineering Graduate | Full-Stack Developer | Cloud & Microservices | DSA</h2>
+<h2 align="center">
+  <a href="https://karim-shaaban.vercel.app/" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a>
+</h2>
 <h3 align="left">Certificates</h3>
 <ul>
   <li><a href="https://coursera.org/share/801684cf910a0a00e34d74b420472854" alt="certificate">Meta Front-End Developer</a></li>
