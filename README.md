@@ -1,6 +1,6 @@
 
 <h2 align="center">Computer Engineering Graduate | Full-Stack Developer | Cloud & Microservices | DSA</h2>
-<h2 align="center" style="font-size:42px; margin-bottom:0;">
+<h2 align="center" style="font-size:60px; margin-bottom:0;">
   <a href="https://karim-shaaban.vercel.app/" target="_blank" rel="noreferrer"><strong>Portfolio</strong></a>
 </h2>
 <h3 align="left">Certificates</h3>
